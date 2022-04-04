@@ -26,7 +26,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass.set("com.wildcodeschool.sea8.exercise.junit_jupiter_getting_started.App")
+    mainClass.set("com.JavaGenericsIntro.App")
 }
 
 tasks.named<Test>("test") {
